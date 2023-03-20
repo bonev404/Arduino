@@ -1,3 +1,4 @@
+
 int smokeA0 = A0;
 int buzzer = 11;
 float sensorValue;
