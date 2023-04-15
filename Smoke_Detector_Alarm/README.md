@@ -1,4 +1,5 @@
 # Introduction
+
 ## In this project we make a Smoke Detector Alarm using Arduino. When the MQ2 Gas Sensor will detect the smoke level high the buzzer will start.
 
 # Components Required
