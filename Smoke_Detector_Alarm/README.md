@@ -12,3 +12,7 @@ Buzzer -> A device that produces sound or alarm
 100ohm Resistor -> To resist the current
 
 Jumper Wires -> For connecting the elements of the circuit
+
+
+
+
